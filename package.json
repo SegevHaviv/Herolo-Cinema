@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "formik": "^1.5.1",
     "react": "^16.8.3",
+    "react-bootstrap": "^1.0.0-beta.5",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-items-carousel": "^2.3.0",
+    "react-jss": "^8.6.1",
+    "react-redux": "^6.0.1",
+    "react-scripts": "2.1.5",
+    "redux": "^4.0.1",
+    "request": "^2.88.0",
+    "uuid": "^3.3.2",
+    "yup": "^0.26.10"
   },
   "scripts": {
     "start": "react-scripts start",
