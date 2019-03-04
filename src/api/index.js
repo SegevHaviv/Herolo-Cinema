@@ -1,4 +1,4 @@
-const BASE_URL = "http://www.omdbapi.com/"
+const BASE_URL = "https://www.omdbapi.com/"
 const API_GET_BY_TITLE_QUERY = "?t="
 const API_KEY = "&apikey=b06899c"
 
